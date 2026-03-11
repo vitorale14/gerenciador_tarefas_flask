@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block head %}
+    <title>Gerenciador - Editar Tarefa</title>
+{% endblock %}
+
+{% block body %}
+<div class="conteudo">
+    <h1>Editar sua tarefa</h1>
+    <form action="/edit/{{ tarefa.identificador }}" method="POST">
+        <input type="text" name="conteudo" id="conteudo" value="{{ tarefa.conteudo }}">
+        <input type="submit" value="Editar">
+    </form>
+</div>
+{% endblock %}

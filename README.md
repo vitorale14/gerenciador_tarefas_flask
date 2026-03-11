@@ -1,0 +1,1 @@
+Este projeto é um CRUD simples de tarefas desenvolvido em Python usando Flask. Ele permite criar, listar, editar e deletar tarefas. O banco de dados utilizado é SQLite, que armazena todas as tarefas localmente. É um projeto didático.
