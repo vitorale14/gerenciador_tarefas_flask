@@ -14,7 +14,7 @@ Projeto CRUD de gerenciamento de tarefas desenvolvido com Flask.
 
 Clone o repositório:
 
-git clone https://github.com/seuusuario/gerenciador-tarefas-flask.git
+git clone https://github.com/vitorale14/gerenciador-tarefas-flask.git
 
 Entre na pasta:
 
